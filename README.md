@@ -1,4 +1,4 @@
-Halatafl (Fox Game)
+#Halatafl (Fox Game)
 
 To play the game, please click the below links:
 
